@@ -1,0 +1,6 @@
+.el-dropdown-menu {
+  &__item:not(.is-disabled):hover {
+    color: white;
+    background-color: #135dc8;
+  }
+}
